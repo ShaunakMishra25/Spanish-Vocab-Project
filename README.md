@@ -1,2 +1,2 @@
 # Spanish-Vocab-Project
-This is small spanish vocabulary project using colors name in spanish.
+This is very basic spanish vocabulary project using colors name in spanish.
